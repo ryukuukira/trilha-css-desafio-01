@@ -1,22 +1,54 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+# 🚀 Desafio 01 - Landing Page com HTML e CSS
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+Este projeto foi desenvolvido como parte da trilha de CSS da plataforma DIO (Digital Innovation One), com o objetivo de consolidar os conhecimentos fundamentais de HTML e CSS.
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+## 🧠 Objetivo
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+Construir uma Landing Page completa utilizando HTML e CSS, aplicando conceitos como:
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+- Estruturação semântica com HTML5
+- Estilização com CSS3
+- Uso de unidades de medida (absolutas e relativas)
+- Aplicação de gradientes
+- Organização e separação de responsabilidades (HTML x CSS)
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+## 🛠️ Tecnologias utilizadas
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+- HTML5
+- CSS3
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+## 🎨 Layout de referência
+
+O layout base foi disponibilizado através do Figma pela instrutora do curso:
+
+🔗 https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01
+
+
+## ⚙️ Implementações realizadas
+
+- Estrutura completa da página com HTML
+- Estilização total com CSS
+- Aplicação de gradientes em textos utilizando `background-clip`
+- Ajustes de responsividade básicos
+- Organização do código para melhor legibilidade
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento deste projeto, foi possível reforçar conceitos importantes como:
+
+- Diferença entre unidades relativas e absolutas
+- Posicionamento de elementos
+- Manipulação de cores e gradientes
+- Boas práticas de organização de código
+
+## 📌 Status do projeto
+
+✅ Concluído
+
+## 🤝 Créditos
+
+Desafio proposto pela plataforma DIO.
+
+---
+
+Feito por Luiz Neto 🚀
